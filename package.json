@@ -1,0 +1,28 @@
+{
+  "name": "password-reminder",
+  "version": "1.0.1",
+  "description": "password reminder library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikukeii/password-reminder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kikukeii/password-reminder/issues"
+  },
+  "issues": {
+    "url": "https://github.com/kikukeii/password-reminder/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/kikukeii"
+  },
+  "keywords": [
+    "password-reminder"
+  ],
+  "author": "miftakhuddin-falaki",
+  "license": "MIT"
+}
